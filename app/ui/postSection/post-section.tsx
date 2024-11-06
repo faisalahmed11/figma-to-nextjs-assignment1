@@ -3,7 +3,7 @@ import { Post } from "./post";
 
 export function PostSection() {
   return (
-    <section className="bg-[#F4E2E2] py-8 ">
+    <section className="bg-[#F4E2E2] md:py-8 py-4">
       <div className=" md:max-w-[1030px]  max-w-[483px] mx-auto p-4">
         <div
           className={`${heebo.className} flex justify-between md:text-[22px]   font-medium py-4`}
