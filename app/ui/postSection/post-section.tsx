@@ -3,10 +3,10 @@ import { Post } from "./post";
 
 export function PostSection() {
   return (
-    <section className="bg-[#F4E2E2] ">
+    <section className="bg-[#F4E2E2] py-8 ">
       <div className=" md:max-w-[1030px]  max-w-[483px] mx-auto p-4">
         <div
-          className={`${heebo.className} flex justify-between md:text-[22px]   font-medium py-2`}
+          className={`${heebo.className} flex justify-between md:text-[22px]   font-medium py-4`}
         >
           <h2 className="">Recent Post</h2>
           <button className="text-[#F98585] hover:underline ">View all</button>

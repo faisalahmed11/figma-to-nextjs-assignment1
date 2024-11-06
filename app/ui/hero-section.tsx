@@ -3,7 +3,7 @@ import { heebo } from "../lib/fonts";
 
 export function HeroSection() {
   return (
-    <section className="flex flex-col md:flex-row  items-center max-w-[1030px] mx-auto md:mt-[150px] justify-between md:mb-[100px]  p-4">
+    <section className="flex flex-col md:flex-row  items-center max-w-[1030px] mx-auto  justify-between md:pt-32 md:py-16 py-8 p-4">
       <div
         className="relative md:order-2  sm:w-[298px]
         aspect-square w-[160px] "

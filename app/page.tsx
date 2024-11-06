@@ -4,7 +4,7 @@ import { PostSection } from "./ui/postSection/post-section";
 
 export default function HomePage() {
   return (
-    <main className="space-y-8">
+    <main>
       <HeroSection />
       <PostSection />
       <FeaturedWorkSection />

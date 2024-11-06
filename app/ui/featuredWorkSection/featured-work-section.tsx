@@ -4,7 +4,7 @@ import { FeaturedWork } from "./featured-work";
 export function FeaturedWorkSection() {
   return (
     <section>
-      <div className="max-w-[1030px] mx-auto p-4">
+      <div className="max-w-[1030px] mx-auto p-4 py-8">
         <h2 className={`${heebo.className} sm:text-[22px] font-medium`}>
           Featured Works
         </h2>
