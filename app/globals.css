@@ -5,5 +5,8 @@
 html,
 body {
   min-height: 99dvh;
-  /* background: red; */
+}
+
+body {
+  overflow-y: scroll;
 }
