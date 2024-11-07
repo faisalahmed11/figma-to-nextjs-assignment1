@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { heebo } from "../lib/fonts";
+import { heebo } from "../../lib/fonts";
 
 export function HeroSection() {
   return (
