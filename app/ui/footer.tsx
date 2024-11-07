@@ -9,7 +9,7 @@ import {
 
 export function Footer() {
   return (
-    <footer className="text-center space-y-2 py-10">
+    <footer className="text-center space-y-2 ">
       <nav className="flex gap-8 justify-center">
         <Link href={"/"}>
           <FaFacebookSquare className="sm:text-3xl text-xl" />
